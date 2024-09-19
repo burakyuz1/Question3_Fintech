@@ -1,0 +1,193 @@
+[
+  {
+    "Year": 2019,
+    "Months": [
+      {
+        "MonthIndex": 10,
+        "IsSelectable": true,
+        "Days": [
+          {
+            "DayTitle": 1,
+            "DayOfWeek": 2,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 2,
+            "DayOfWeek": 3,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 3,
+            "DayOfWeek": 4,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 4,
+            "DayOfWeek": 5,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 5,
+            "DayOfWeek": 5,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 6,
+            "DayOfWeek": 0,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 7,
+            "DayOfWeek": "Monday",
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 8,
+            "DayOfWeek": 2,
+            "PositionCount": 3,
+            "CalenderDataType": {
+              "Usdt": 719.06,
+              "Percentage": 5.5
+            }
+          },
+          {
+            "DayTitle": 9,
+            "DayOfWeek": 3,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 10,
+            "DayOfWeek": 4,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 11,
+            "DayOfWeek": 5,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 12,
+            "DayOfWeek": 5,
+            "PositionCount": 1,
+            "CalenderDataType": {
+              "Usdt": 53.98,
+              "Percentage": 1.2
+            }
+          },
+          {
+            "DayTitle": 13,
+            "DayOfWeek": 0,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 14,
+            "DayOfWeek": "Monday",
+            "PositionCount": 2,
+            "CalenderDataType": {
+              "Usdt": -1661.05,
+              "Percentage": -10.3
+            }
+          },
+          {
+            "DayTitle": 15,
+            "DayOfWeek": 2,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 16,
+            "DayOfWeek": 3,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 17,
+            "DayOfWeek": 4,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 18,
+            "DayOfWeek": 5,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          },
+          {
+            "DayTitle": 19,
+            "DayOfWeek": 5,
+            "PositionCount": 1,
+            "CalenderDataType": {
+              "Usdt": "70_828.11",
+              "Percentage": 15.3
+            }
+          },
+          {
+            "DayTitle": 20,
+            "DayOfWeek": 0,
+            "PositionCount": 0,
+            "CalenderDataType": {
+              "Usdt": 0,
+              "Percentage": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
